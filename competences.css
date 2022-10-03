@@ -1,0 +1,405 @@
+
+
+body{
+    background-color: rgb(168, 185, 168);
+   
+}
+
+.mot{
+    text-align: center;
+    font-style: unset;
+    font-size: 150px;
+}
+
+
+
+
+
+
+
+/* ma barre de Progression python */
+
+
+
+
+.containerpython{
+	position: absolute;
+	height: auto;
+	width : 70%;
+	border-radius: 3px;
+	box-shadow: 0 0 10px #000;
+	padding : 10px 80px 40px ;
+	top : 5%;
+	left: 700px;
+	text-align: center;
+
+	
+}
+
+
+
+.barpython{
+	
+	width: 100%;
+	background: #444;
+	border-radius : 5px;
+		     inset  -5px -5px 10px #5c5c5c;
+	
+}
+
+
+
+
+
+
+.bar-statpython{
+	padding: 5px 20px;
+	border-radius: 5px;
+	text-shadow: 0 0 5px #000;
+}
+
+
+
+
+
+#python{
+	background: #5E0303;
+	animation : pythonSlide 5.5s cubic-bezier(0.33,1, 0.68,1) forwards;
+
+	
+} 
+
+
+
+
+
+
+
+
+
+
+@keyframes pythonSlide{
+	0%{width: 0%; }
+	100%{width: 30%;}
+	
+}
+
+
+
+
+
+
+		
+
+/* Fin barre de progression python*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ma barre de Progression sql*/
+
+
+
+
+.containersql{
+	position: absolute;
+	height: auto;
+	width : 74%;
+	border-radius: 3px;
+	box-shadow: 0 0 10px #000;
+	padding : 10px 80px 40px ;
+	top : 170%;
+	right: 680px;
+	text-align: center;
+	
+}
+
+
+
+.barsql{
+	
+	width: 100%;
+	background: #444;
+	border-radius : 5px;
+		     inset  -5px -5px 10px #5c5c5c;
+	
+}
+
+
+
+
+
+
+.bar-statsql{
+	padding: 5px 20px;
+	border-radius: 5px;
+	text-shadow: 0 0 5px #000;
+}
+
+
+
+
+
+#sql{
+	background: #5E0303;
+	animation : sqlSlide 1.5s cubic-bezier(0.33,1, 0.68,1) forwards;
+
+	
+} 
+
+
+
+
+
+
+
+
+
+
+@keyframes sqlSlide{
+	0%{width: 0%; }
+	100%{width: 30%;}
+	
+}
+
+
+
+
+
+
+		
+
+/* Fin barre de progression sql*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* code progession JS*/
+
+.containerjs{
+
+	
+	position : absolute;
+	height: auto;
+	width : 70%;
+	border-radius: 3px;
+	box-shadow: 0 0 5px #000;
+	padding : 10px 80px 40px ;
+	bottom : 0%;
+	
+	margin-left: 100% ;
+	
+}
+
+
+
+.barjs{
+	
+	width: 100%;
+	background: #444;
+	border-radius : 5px;
+		     inset  -5px -5px 10px #5c5c5c;
+	
+}
+
+
+
+
+
+
+.bar-statjs{
+	padding: 5px 20px;
+	border-radius: 5px;
+	text-shadow: 0 0 5px #000;
+}
+
+
+#js{
+	background: #5E0303;
+	animation : jsSlide 1.5s cubic-bezier(0.33,1, 0.68,1) forwards;
+
+	
+} 
+
+
+
+
+
+
+
+
+
+@keyframes jsSlide{
+	0%{width: 0%; }
+	100%{width: 50%;}
+}
+
+
+
+
+/* Fin code progression JS*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ma barre de Progression css*/
+
+
+
+
+.container{
+	position: absolute;
+	height: auto;
+	width : 30%;
+	border-radius: 3px;
+	box-shadow: 0 0 10px #000;
+	padding : 10px 80px 40px ;
+	top : 348px;
+	margin-left: 7%;
+	text-align: center;
+	
+}
+
+
+
+.bar{
+	
+	width: 100%;
+	background: #444;
+	border-radius : 5px;
+		     inset  -5px -5px 10px #5c5c5c;
+	
+}
+
+
+
+
+
+
+.bar-stat{
+	padding: 5px 20px;
+	border-radius: 5px;
+	text-shadow: 0 0 5px #000;
+}
+
+
+
+
+
+#css{
+	background: #5E0303;
+	animation : cssSlide 1.5s cubic-bezier(0.33,1, 0.68,1) forwards;
+
+	
+} 
+
+
+
+
+
+
+
+
+
+
+@keyframes cssSlide{
+	0%{width: 0%; }
+	100%{width: 50%;}
+	
+}
+
+
+
+
+
+
+		
+
+/* Fin barre de progression css*/

@@ -1,0 +1,246 @@
+body
+{
+margin : 0px;
+}
+
+
+
+
+
+
+
+p1{
+    display: block;
+    background-color : white;
+    margin-left : auto;
+    margin-right : auto;
+    right : 15px;
+    z-index : 1;
+    height : 500px;
+    color : red;
+    text-align : center; 
+    
+}
+
+
+
+h5{
+
+
+
+position: absolute;
+
+    
+width: 122px;
+
+text-align : center;
+padding : 16px;
+margin-left : 32%;
+top : 723px;
+color : white;
+border : 1px groove  black;
+border-radius : 2px;
+background : white;
+border-radius : 0spx;
+
+}
+
+
+
+
+
+
+
+
+.btn_contact : hover { background-color: #1d1d1d; color : # ffb42a;}
+.main_footer{
+     background-color: #242424; 
+     color : #fff
+
+}
+
+
+
+
+    
+
+.hearder{
+
+    border : 1px solid white;
+    border-left: 5px;
+    border-right: 5px;
+    border-top : 5px;
+    height: 70px;
+    margin : 0px;
+    text-align : center;
+    
+
+    
+}
+
+
+h6{
+
+
+
+position: absolute;
+
+    
+width: 500px;
+
+text-align : center;
+padding : 10px;
+margin-left : 8%;
+top : 720px;
+color : white;
+border : 1px groove  black;
+border-radius : 2px;
+background : red;
+border-radius : 3px;
+
+}
+
+
+
+
+h1{
+    display: inline-block;
+    bottom : 15px;
+    width : 100 px;
+    border : 2 px solid black;
+    
+    
+
+}
+
+
+
+
+h4{
+
+position: absolute;
+
+    
+width: 170px;
+
+text-align : center;
+padding : 15px;
+margin-left : 42.5%;
+top : 520px;
+color : white;
+border : 1px groove  white;
+border-radius : 2px;
+
+
+
+
+}
+
+h3
+{
+
+text-align : center;
+width: 270px;
+height : 100 px;
+border : 1px none  yellow;
+color : black;
+font-size :  large;
+
+
+
+}
+
+
+
+
+
+
+
+
+pre
+{
+
+width: 300px;
+text-align : justify;
+padding : 10px;
+margin : auto;
+color : white;
+
+
+
+}
+
+
+
+
+
+
+
+img{
+display:block;
+margin-right: auto;
+margin-left: auto;
+right : 15px;
+border-radius : 1800px;
+margin-top : 15px;
+
+
+
+}
+
+nav ul{
+    padding: 2px;
+    margin: 20px;
+    list-style-type: auto;
+    letter-spacing : 0.0rem;
+   
+
+   
+}
+nav li{
+    display: inline-block;
+    margin:20px;
+    padding: 10px;
+    width: 100px;
+    height: 80px;
+ 
+    text-align: center;
+    line-height: 20px;
+    letter-spacing : 0.0rem;
+
+    
+}
+
+
+
+
+
+
+
+
+
+body{
+background-color: #5E0303;
+}
+
+
+
+
+
+nav li a{
+    display:block;
+    text-decoration:none;
+    color: red;
+  
+}
+
+nav li :hover{
+    background-color: black;
+      text-align : center ;
+
+
+
+
+
+
+}
